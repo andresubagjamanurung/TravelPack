@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "266266843648",
+    "firebase_url": "https://test-3b939.firebaseio.com",
+    "project_id": "test-3b939",
+    "storage_bucket": "test-3b939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266266843648:android:c7e93faa97ae272b9896e5",
+        "android_client_info": {
+          "package_name": "com.andresmanurung.touchless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266266843648-m8ltk4a1pu95j6qdu42mp3pqvf9eovdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiu6P2k1pRgUjUsjtrhOwbgJfLYskQJt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266266843648-m8ltk4a1pu95j6qdu42mp3pqvf9eovdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
